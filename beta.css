@@ -1,0 +1,11 @@
+.jumbotron {
+  background-image: url(https://images.unsplash.com/photo-1484807352052-23338990c6c6?ixlib=rb-0.3.5&q=85&fm=jpg&crop=entropy&cs=srgb&ixid=eyJhcHBfaWQiOjE0NTg5fQ&s=c3b87fcc6720da2309004fdc80b4d877);
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin-top:100px;
+}
+
+.jumbo {
+  background-color: rgba(0,0,0,0.5);
+  padding: 20px;
+}
